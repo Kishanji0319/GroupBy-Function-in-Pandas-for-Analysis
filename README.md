@@ -5,7 +5,7 @@
 
  **->Split:** Divide the data into groups based on the values in one or more columns.
  
-**->Apply:**Apply a function to each group independently. This could be an aggregation (e.g., sum, mean), transformation, or filtering.
+  ->Apply:Apply a function to each group independently. This could be an aggregation (e.g., sum, mean), transformation, or filtering.
  
  **->Combine:** Combine the results into a new DataFrame.
 
