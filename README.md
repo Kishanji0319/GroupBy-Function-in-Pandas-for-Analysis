@@ -12,5 +12,7 @@
 **Applications:**
 
 **Summarizing Data:** Quickly calculate summary statistics like mean, sum, count, etc., for different groups.
+
 **Data Transformation:** Apply custom functions to transform data within each group.
+
 **Filtering Data:** Filter groups based on certain criteria.
